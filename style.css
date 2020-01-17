@@ -1,0 +1,28 @@
+.main {
+    padding-top: 15px;
+}
+
+.container-fluid {
+    max-width: 1310px;
+}
+
+.sticky-top {
+    border: 1px solid black;
+}
+
+.title-block {
+    color: gray;
+}
+
+img {
+    height: auto;
+}
+
+.category {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 30px;
+    padding: 10px 15px 9px;
+    background-color: rgba(255,255,255,0.9);
+}

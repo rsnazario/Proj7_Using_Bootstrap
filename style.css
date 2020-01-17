@@ -4,6 +4,7 @@
 
 .container-fluid {
     max-width: 1310px;
+    overflow: hidden;
 }
 
 .sticky-top {

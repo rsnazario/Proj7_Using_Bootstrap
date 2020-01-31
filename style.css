@@ -1,0 +1,22 @@
+
+/* I don't know if it is possible to use something like "sticky-md-top" in order
+    to apply the sticky position starting at the medium view, so after a lot of 
+    attempts, I decided to work with this media query */
+@media screen and (max-width: 600px) {
+    .col-xs-12 {
+        position: static;
+    }
+}
+
+body {
+    background-color: #f4f5f6;
+}
+
+.category {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 30px;
+    padding: 10px 15px 9px;
+    background-color: rgba(255,255,255,0.9);
+}

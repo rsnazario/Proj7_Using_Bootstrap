@@ -8,8 +8,12 @@
     }
 }
 
-body {
+body, .bg-gray {
     background-color: #f4f5f6;
+}
+
+.bg-news {
+    background-color: #f72210;
 }
 
 .category {

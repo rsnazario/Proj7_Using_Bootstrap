@@ -16,6 +16,10 @@ body, .bg-gray {
     background-color: #f72210;
 }
 
+.text-news {
+    color: #f72210;
+}
+
 .category {
     position: absolute;
     bottom: 0;

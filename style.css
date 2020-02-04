@@ -28,3 +28,10 @@ body, .bg-gray {
     padding: 10px 15px 9px;
     background-color: rgba(255,255,255,0.9);
 }
+
+.play {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 0 8px;
+}

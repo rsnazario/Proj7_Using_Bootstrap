@@ -6,7 +6,13 @@
     .col-xs-12 {
         position: static;
     }
+
+    .centering-small-screens {
+        text-align: center;
+    }
 }
+
+
 
 body, .bg-gray {
     background-color: #f4f5f6;

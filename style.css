@@ -10,8 +10,14 @@
     .centering-small-screens {
         text-align: center;
     }
+    
 }
 
+@media screen and (min-width: 700px) {
+    .box-of-icons {
+        padding-top: 15px;
+    }
+}
 
 
 body, .bg-gray {

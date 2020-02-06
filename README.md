@@ -3,7 +3,7 @@
 ---
 
 > This project is completed by Rafael Nazario, as part of Microverse curriculum.  
-> The main task of this project was to understand the Bootstrap tool by replicating the [newsweek web page](newsweek.com) by using as much bootstrap as possible (avoiding pure css).
+> The main task of this project was to understand the Bootstrap tool by replicating the [newsweek web page](https://www.newsweek.com/) by using as much bootstrap as possible (avoiding pure css).
 ---
 
 ## Built With

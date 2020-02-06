@@ -19,6 +19,13 @@
     }
 }
 
+@media screen and (max-width: 1000px) {
+    main {
+        position: relative;
+        top: 50px;
+    }
+}
+
 
 body, .bg-gray {
     background-color: #f4f5f6;

@@ -26,7 +26,6 @@
     }
 }
 
-
 body, .bg-gray {
     background-color: #f4f5f6;
 }
@@ -37,6 +36,10 @@ body, .bg-gray {
 
 .text-news {
     color: #f72210;
+}
+
+.text-black {
+    color: black;
 }
 
 .category {

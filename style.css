@@ -1,67 +1,67 @@
 @media screen and (max-width: 600px) {
-    .col-xs-12 {
-        position: static;
-    }
+  .col-xs-12 {
+    position: static;
+  }
 
-    .centering-small-screens {
-        text-align: center;
-    }
-    
+  .centering-small-screens {
+    text-align: center;
+  }
 }
 
 @media screen and (min-width: 700px) {
-    .box-of-icons {
-        padding-top: 15px;
-    }
+  .box-of-icons {
+    padding-top: 15px;
+  }
 }
 
 @media screen and (max-width: 1000px) {
-    main {
-        position: relative;
-        top: 50px;
-    }
+  main {
+    position: relative;
+    top: 50px;
+  }
 }
 
-body, .bg-gray {
-    background-color: #f4f5f6;
+body,
+.bg-gray {
+  background-color: #f4f5f6;
 }
 
 .bg-news {
-    background-color: #f72210;
+  background-color: #f72210;
 }
 
 .category {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 30px;
-    padding: 10px 15px 9px;
-    background-color: rgba(255,255,255,0.9);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 30px;
+  padding: 10px 15px 9px;
+  background-color: rgba(255, 255, 255, 0.9);
 }
 
 .feat-slide-img {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    height: 52px;
-    width: 70px;
-    padding: 20px 10px 10px 30px;
-    background-color: rgba(255,255,255,0.9);
-    background-image: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png);
-    background-size: contain;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 52px;
+  width: 70px;
+  padding: 20px 10px 10px 30px;
+  background-color: rgba(255, 255, 255, 0.9);
+  background-image: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png);
+  background-size: contain;
 }
 
 .play {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    padding: 0 8px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0 8px;
 }
 
 .text-black {
-    color: black;
+  color: black;
 }
 
 .text-news {
-    color: #f72210;
+  color: #f72210;
 }
